@@ -8,11 +8,7 @@
     margin: 0 auto;
 }
 .header_picture{
-    background: url("../img/Group\ 1.svg") no-repeat center center;
-}
-.header{
-    width: 1100px;
-    height: 1100px;
-
+    background: url("../img/fon.jpg") no-repeat center center / cover;
+    height: 1111px;
 }
 
