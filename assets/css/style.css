@@ -4,11 +4,70 @@
     box-sizing: border-box;
 }
 .container{
-    width: 1440px;
+    width: 1300px;
     margin: 0 auto;
 }
 .header_picture{
     background: url("../img/fon.jpg") no-repeat center center / cover;
     height: 1111px;
+    width: 1900px;
 }
+.logo{
+    width: 420px;
+    height: 150px;
+  
+}
+.wrapper_header{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    margin-left: -300px;
+}
+.text_header{
+    display: flex;
+
+}
+.txt_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+    margin-left: -400px;
+
+}
+.menu_header{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.phone{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
