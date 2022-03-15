@@ -2,6 +2,16 @@
     margin: auto;
     padding: auto;
 }
-
-
+.container{
+    width: 1440px;
+}
+.wrapper_container{
+    background: url("../img/Group\ 1.png") no-repeat center ; 
+}
+.font{
+    width: auto;
+    height: auto;
+    background: url("../img/Group\ 1.png") no-repeat center ;
+    
+}
 
